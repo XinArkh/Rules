@@ -50,9 +50,6 @@ payload:
 
   # > Sony
   # - USER-AGENT,RemotePlay*
-  - DOMAIN-SUFFIX,playstation.com
-  - DOMAIN-SUFFIX,playstation.net
-  - DOMAIN-SUFFIX,playstationnetwork.com
   - DOMAIN-SUFFIX,sony.com
   - DOMAIN-SUFFIX,sonyentertainmentnetwork.com
 
@@ -111,7 +108,6 @@ payload:
   - DOMAIN-SUFFIX,bdstatic.com
   - DOMAIN-SUFFIX,beatsbydre.com
   - DOMAIN-SUFFIX,broadcasthe.net
-  - DOMAIN-SUFFIX,browserleaks.com
   - DOMAIN-SUFFIX,caiyunapp.com
   - DOMAIN-SUFFIX,ccgslb.com
   - DOMAIN-SUFFIX,ccgslb.net
@@ -146,7 +142,6 @@ payload:
   - DOMAIN-SUFFIX,ewqcxz.com
   - DOMAIN-SUFFIX,feng.com
   - DOMAIN-SUFFIX,fir.im
-  - DOMAIN-SUFFIX,firefox.com
   - DOMAIN-SUFFIX,frdic.com
   - DOMAIN-SUFFIX,fresh-ideas.cc
   - DOMAIN-SUFFIX,gameloft.com
